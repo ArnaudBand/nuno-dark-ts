@@ -12,5 +12,11 @@ A React package that makes it easy to implement dark mode in your React applicat
 ### Installation:
 
 ```
-npm install react-dark-mode
+npm install nuno-dark-ts
+```
+
+or 
+
+```
+npm install @ArnaudBand/nuno-dark-ts
 ```
