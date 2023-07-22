@@ -1,5 +1,5 @@
 {
-  "name": "nuno-dark-ts",
+  "name": "@ArnaudBand/nuno-dark-ts",
   "version": "1.0.0",
   "description": "A React package that makes it easy to implement dark mode in your React applications.",
   "scripts": {
@@ -34,5 +34,8 @@
     "dist"
   ],
   "types": "dist/index.d.ts",
-  "type": "module"
+  "type": "module",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ArnaudBand"
+  }
 }
